@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joana Software Engineering student
+- HI, I’m Joana Software Engineering student
 
 
 <!---
